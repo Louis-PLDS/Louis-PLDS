@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href = "https://skillicons.dev/icons?i=docker,c,java,html,php,python,vscode,idea,figma,css,unrealengine,mysql,ubuntu,windows&theme=dark&perline=16" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,c,java,html,php,python,vscode,idea,figma,css,unrealengine,mysql,ubuntu,windows&theme=dark&perline=16" alt="My Skills" /></a>
