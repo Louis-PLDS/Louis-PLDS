@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://skillicons.dev/icons?i=docker,c,java,html,php,python,vscode,idea,figma,css,unrealengine,mysql,ubuntu,windows&theme=dark&perline=16
+<a href = "https://skillicons.dev/icons?i=docker,c,java,html,php,python,vscode,idea,figma,css,unrealengine,mysql,ubuntu,windows&theme=dark&perline=16" />
+</a>
